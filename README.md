@@ -48,4 +48,4 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [MIT License](LICE
 
 El manual de usuario detalla cómo utilizar la librería MathSpanish y proporciona instrucciones paso a paso sobre cómo utilizar sus diversas funciones y características. Puedes descargar el manual de usuario en formato PDF haciendo clic en el siguiente enlace:
 
-[Descargar Manual de Usuario](Manual_de_Usuario.pdf)
+[Descargar Manual de Usuario](manual_de_usuario.pdf)
