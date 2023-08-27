@@ -36,7 +36,7 @@ Descarga la librería MathSpanish desde el enlace de releases.
 Agrega el archivo JAR a tu proyecto.
 Importa las clases necesarias en tu código.
 Documentación
-La documentación detallada de cada clase y método se encuentra en la carpeta docs. Puedes consultarla para obtener más información sobre cómo utilizar la librería.
+La documentación detallada de cada clase y método se encuentra en la [carpeta docs](docs/com/mathspanish). Puedes consultarla para obtener más información sobre cómo utilizar la librería.
 
 Contribuciones
 ¡Las contribuciones son bienvenidas! Si encuentras algún error, tienes ideas para nuevas funciones o mejoras, no dudes en abrir un issue o enviar un pull request.
