@@ -42,4 +42,4 @@ Contribuciones
 ¡Las contribuciones son bienvenidas! Si encuentras algún error, tienes ideas para nuevas funciones o mejoras, no dudes en abrir un issue o enviar un pull request.
 
 Licencia
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [MIT License](LICENSE) para más detalles.
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [MIT License](LICENSE.txt) para más detalles.
