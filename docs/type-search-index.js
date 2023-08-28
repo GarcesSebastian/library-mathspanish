@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mathspanish","l":"conversor"},{"p":"com.mathspanish","l":"operaciones"},{"p":"com.mathspanish","l":"opTrigonometricas"}];updateSearchResults();
